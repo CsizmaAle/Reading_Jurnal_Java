@@ -1,0 +1,122 @@
+[
+	{
+	"id": 1,
+	"idCarte": 101,
+	"data": "2025-01-02",
+	"paginaCurenta": 20
+	},
+	{
+	"id": 2,
+	"idCarte": 101,
+	"data": "2025-01-05",
+	"paginaCurenta": 45
+	},
+	{
+	"id": 3,
+	"idCarte": 101,
+	"data": "2025-01-10",
+	"paginaCurenta": 80
+	},
+	{
+	"id": 4,
+	"idCarte": 102,
+	"data": "2025-01-03",
+	"paginaCurenta": 30
+	},
+	{
+	"id": 5,
+	"idCarte": 102,
+	"data": "2025-01-08",
+	"paginaCurenta": 60
+	},
+	{
+	"id": 6,
+	"idCarte": 102,
+	"data": "2025-01-14",
+	"paginaCurenta": 100
+	},
+	{
+	"id": 7,
+	"idCarte": 103,
+	"data": "2025-02-01",
+	"paginaCurenta": 25
+	},
+	{
+	"id": 8,
+	"idCarte": 103,
+	"data": "2025-02-06",
+	"paginaCurenta": 55
+	},
+	{
+	"id": 9,
+	"idCarte": 103,
+	"data": "2025-02-12",
+	"paginaCurenta": 90
+	},
+	{
+	"id": 10,
+	"idCarte": 104,
+	"data": "2025-02-03",
+	"paginaCurenta": 40
+	},
+	{
+	"id": 11,
+	"idCarte": 104,
+	"data": "2025-02-09",
+	"paginaCurenta": 75
+	},
+	{
+	"id": 12,
+	"idCarte": 104,
+	"data": "2025-02-15",
+	"paginaCurenta": 120
+	},
+	{
+	"id": 13,
+	"idCarte": 105,
+	"data": "2025-03-01",
+	"paginaCurenta": 50
+	},
+	{
+	"id": 14,
+	"idCarte": 105,
+	"data": "2025-03-06",
+	"paginaCurenta": 90
+	},
+	{
+	"id": 15,
+	"idCarte": 105,
+	"data": "2025-03-12",
+	"paginaCurenta": 130
+	},
+	{
+	"id": 16,
+	"idCarte": 106,
+	"data": "2025-03-03",
+	"paginaCurenta": 35
+	},
+	{
+	"id": 17,
+	"idCarte": 106,
+	"data": "2025-03-08",
+	"paginaCurenta": 70
+	},
+	{
+	"id": 18,
+	"idCarte": 106,
+	"data": "2025-03-14",
+	"paginaCurenta": 110
+	},
+	{
+	"id": 19,
+	"idCarte": 107,
+	"data": "2025-04-01",
+	"paginaCurenta": 60
+	},
+	{
+	"id": 20,
+	"idCarte": 107,
+	"data": "2025-04-07",
+	"paginaCurenta": 100
+	}
+]

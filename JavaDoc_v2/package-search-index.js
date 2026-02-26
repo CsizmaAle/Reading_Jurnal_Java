@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html","k":"18"},{"l":"Baza_de_date"},{"l":"Helpers"},{"l":"Logica"},{"l":"Modele_de_date"},{"l":"org.example"},{"l":"Services"},{"l":"UI"}];updateSearchResults();

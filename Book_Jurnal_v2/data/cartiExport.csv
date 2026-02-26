@@ -1,0 +1,204 @@
+id;titlu;autor;gen;tip;numar_pagini_totale;status;imagine;procent;dataStart;dataFinish;scor;review
+1;Papusarul din Cracovia;R.M.Ramero;kids;PAPERBACK;315;FINALIZATA;https://cdn4.libris.ro/img/pozeprod/1252/1252000-1.jpg;1.0;2022-02-21;2022-02-28;4.0;Holocaust
+2;Orasul Semilunii. Casa Pamantului si a Sangelui;Sarah J. Maas;fantasy;PAPERBACK;0;FINALIZATA;null;1.0;2022-02-21;2022-02-28;5.0;crime and fun
+3;Reteaua Alice;Kate Quinn;fiction;PAPERBACK;363;FINALIZATA;null;1.0;2022-04-05;2022-04-11;5.0;spioni
+4;Caietul cu nume pierdute;Sofia Lundberg;fiction;PAPERBACK;207;FINALIZATA;null;1.0;2022-07-11;2022-07-11;4.0;viata unei batrane
+5;Sora mea, Summer;Monica Sabolo;fiction;PAPERBACK;174;FINALIZATA;null;1.0;2021-05-22;2021-05-28;4.0;fata disparuta
+6;Pacientul;Jasper DeWitt;thriller;PAPERBACK;183;FINALIZATA;https://cdn4.libris.ro/img/pozeprod/21006/21005362-2.jpg;1.0;2021-09-18;2021-09-24;4.0;pacient la spital de psihiatrie
+7;Fata Anonima;Greer Hendricks, Sarah Pekkanen;thriller;PAPERBACK;475;FINALIZATA;null;1.0;2022-06-01;2022-06-02;4.0;o doctorita ii nebuna dupa sotul ei
+8;Casa Bantuita;Shirley Jackson;horror;PAPERBACK;176;FINALIZATA;null;1.0;2020-08-06;2021-08-13;4.0;un studiu la o casa bantuita
+9;Haunting Adeline;H. D. Carlton;mystery;PAPERBACK;640;FINALIZATA;null;1.0;2024-09-26;2024-09-29;5.0;smut
+10;Casa de Vacanta;Jorn Lier Horst;thriller;PAPERBACK;384;FINALIZATA;null;1.0;2022-06-05;2022-06-06;4.0;crime, oameni prosti
+11;Minti Primejdioase;Alexandra Bracken;fiction;PAPERBACK;536;FINALIZATA;null;1.0;2021-11-24;2021-11-29;5.0;copii cu superputeri
+12;Niciodata Induplecate;Alexandra Bracken;YA;PAPERBACK;576;FINALIZATA;null;1.0;2021-12-18;2021-12-20;5.0;copii cu superputeri
+14;Cotloane Intunecate;Ruth Rendell;thriller;PAPERBACK;263;FINALIZATA;null;1.0;2023-08-23;2023-09-16;2.0;dump ppl
+15;Taramul Povestilor. Vraja Dorintelor;Chris Colfer;fantasy;PAPERBACK;0;FINALIZATA;null;1.0;2023-08-23;2023-09-16;4.0;copii in lumea basmelor
+16;Taramul Povestilor. Intoarcerea Fermecatoarei;Chris Colfer;fantasy;PAPERBACK;0;FINALIZATA;null;1.0;2023-08-23;2023-09-16;4.0;copii in lumea basmelor
+17;Trupuri divine;Guillermo C. Infante;;PAPERBACK;0;NECITITA;null;0.0;;;0.0;revolutia din cuba
+18;Cateva lucruri despre tine;Florin Irimia;biography;PAPERBACK;151;FINALIZATA;null;1.0;2020-08-01;2020-08-02;2.0;un tip care si uraste tatal
+19;Secretul din Padurea Privighetorii;Lucy Strange;fiction;PAPERBACK;280;FINALIZATA;null;1.0;2021-09-25;2021-09-25;3.0;o fetita si o vrajitoare
+20;Incepe cu ce nu ti place;Brain Tracy;;PAPERBACK;0;FINALIZATA;null;1.0;2021-09-25;2021-09-25;3.0;dezvoltare personala
+21;The 100;Kass Morgan;SF;PAPERBACK;323;FINALIZATA;null;1.0;2022-09-11;2022-10-03;2.0;oamenii se intorc pe terra dupa 300 ani
+22;Focurile din Tegel;Fabio Geda;fiction;PAPERBACK;179;FINALIZATA;null;1.0;2021-06-06;2021-06-15;4.0;copii dupa o epidemie care supravietuiesc cum pot
+23;Zorii din Alexandre Platz;Fabio Geda;fiction;PAPERBACK;0;FINALIZATA;null;1.0;2021-06-06;2021-06-15;4.0;copii dupa o epidemie care supravietuiesc cum pot
+24;Batalia din Groupius;Fabio Geda;fiction;PAPERBACK;0;FINALIZATA;null;1.0;2021-06-06;2021-06-15;4.0;copii dupa o epidemie care supravietuiesc cum pot
+25;Lupii din Brandenburg;Fabio Geda;fiction;PAPERBACK;225;FINALIZATA;null;1.0;2022-03-25;2022-04-04;4.0;copii dupa o epidemie care supravietuiesc cum pot
+26;Veronika se hotaraste sa moara;Paulo Coelho;romance;PAPERBACK;156;FINALIZATA;null;1.0;2022-02-14;2022-02-20;4.0;o tipa care vr sa moara dar nu mai moare
+27;Rosslyn si Graalul;Mark Oxbrow, Ian Robertson;;PAPERBACK;0;NECITITA;null;0.0;;;0.0;
+28;Codul lui Da Vinci;Dan Brown;action;PAPERBACK;488;FINALIZATA;null;1.0;2019-03-02;2019-05-30;5.0;un tip si o tipa au o calatorie pt a afla un secret
+29;Daca as ramane;Gayle Forman;fiction;PAPERBACK;215;FINALIZATA;null;1.0;2022-02-08;2022-02-13;3.0;dupa un accident de masina nu stie dc sa moara sau sa mai traiasca
+30;Baiatul cu pijamale in dungi;John Boyne;history;PAPERBACK;224;FINALIZATA;null;1.0;2022-04-23;2022-04-23;2.0;Holocaust
+31;Curiosul caz a lui Origami Yoda;Tom Angleberger;;PAPERBACK;0;FINALIZATA;null;1.0;2022-04-23;2022-04-23;2.0;copii la scoala
+32;Coraline;Neil Gaiman;;PAPERBACK;208;FINALIZATA;null;1.0;2018-08-06;2018-08-15;3.0;o fata cu o usa si o a doua dimensiune
+33;The Girl On The Train;Paula Hawkins;;PAPERBACK;323;FINALIZATA;null;1.0;2022-07-12;2022-07-31;4.0;o alcoolica care ajutra la rezolvarea unei crime
+34;Biletul de Loterie;Michael Byrne;;PAPERBACK;302;FINALIZATA;null;1.0;2019-09-30;2019-10-30;2.0;un orfan, homeless kid incearca sa obtina banii meritati
+35;Julie din neamul lupilor;Jean C. George;;PAPERBACK;0;NECITITA;null;0.0;;;0.0;
+36;Pax;Sara Pennypacker;;PAPERBACK;0;NECITITA;null;0.0;;;0.0;
+37;Cartea Cimitirului;Neil Gaiman;;PAPERBACK;250;FINALIZATA;null;1.0;2017-08-12;2017-08-18;3.0;un copil traieste printre morti
+38;Casa secretelor, v1;Chris Columbus, Ned Vizzini;;PAPERBACK;0;FINALIZATA;null;1.0;2017-08-12;2017-08-18;4.0;copii care intra in lumea povestilor
+39;Casa secretelor, v2;Chris Columbus, Ned Vizzini;;PAPERBACK;0;FINALIZATA;null;1.0;2017-08-12;2017-08-18;4.0;copii care intra in lumea povestilor
+40;Casa secretelor, v3;Chris Columbus, Ned Vizzini, Chris Rylander;;PAPERBACK;0;FINALIZATA;null;1.0;2017-08-12;2017-08-18;4.0;copii care intra in lumea povestilor
+41;Punci cu porunci;Michael Ende;;PAPERBACK;232;FINALIZATA;null;1.0;2020-07-20;2020-08-22;3.0;
+42;O bucla in timp;Madeleine L'Engle;;PAPERBACK;223;FINALIZATA;null;1.0;2020-08-25;2020-08-27;3.0;copii care isi cauta tatal
+43;Sora mea, Ramona;Beverly Cleary;;PAPERBACK;0;NECITITA;null;0.0;;;0.0;
+44;Pacostea de Ramona;Beverly Cleary;;PAPERBACK;0;NECITITA;null;0.0;;;0.0;
+45;Ramona cea viteaza;Beverly Cleary;;PAPERBACK;0;NECITITA;null;0.0;;;0.0;
+46;Minunea;R.J. Palacio;;PAPERBACK;0;ABANDONATA;null;0.0;2020-08-25;;0.0;
+47;Cravata Rosie;Ji-li Jang;;PAPERBACK;236;FINALIZATA;null;1.0;2018-03-24;2018-03-27;3.0;revolutie in china
+48;Trandafirii din Mexic;Pam Munoz Ryan;;PAPERBACK;191;FINALIZATA;null;1.0;2018-08-20;2019-08-23;3.0;o familie care traieste in mexic
+49;O scurta istorie a lumii;Ernst H. Gombrich;;PAPERBACK;0;NECITITA;null;0.0;;;0.0;
+50;Fetita cele de a sasea luni;Moony Witcher;;PAPERBACK;0;FINALIZATA;null;1.0;2018-08-20;2019-08-23;4.0;copii alchimisti
+51;Nina si misterul notei a opta;Moony Witcher;;PAPERBACK;352;FINALIZATA;null;1.0;2017-03-20;2017-03-22;4.0;copii alchimisti
+52;Nina si blestemul sarpelui cu pene;Moony Witcher;;PAPERBACK;0;FINALIZATA;null;1.0;2017-03-20;2017-03-22;4.0;copii alchimisti
+53;Nina si ochiul secret al Atlantidei;Moony Witcher;;PAPERBACK;0;FINALIZATA;null;1.0;2017-03-20;2017-03-22;4.0;copii alchimisti
+54;Nina si numarul de aur;Moony Witcher;;PAPERBACK;384;FINALIZATA;null;1.0;2022-04-12;2022-04-13;2.0;copii alchimisti
+55;Umbrela Rosie;Christina Diaz Gonzalez;;PAPERBACK;389;FINALIZATA;null;1.0;2019-08-10;2019-09-25;3.0;revolutie in cuba
+56;Domnul Treput cade din nou;Rob Buyne;;PAPERBACK;0;ABANDONATA;null;0.0;2019-08-10;;0.0;
+57;Fantoma din Canterville;Oscar Wilde;;PAPERBACK;0;FINALIZATA;null;1.0;2019-08-10;2019-09-25;2.0;o fantoma dintr un conac
+58;Cel mai mult si mai mult;***;;PAPERBACK;0;NECITITA;null;0.0;;;0.0;
+59;Ursul si privighetoarea;Katherine Arden;fantasy;PAPERBACK;387;FINALIZATA;null;1.0;2023-08-19;2023-08-20;4.0;
+60;Stapanul Viselor. Cosmarul;Theresa Breslin;;PAPERBACK;0;FINALIZATA;null;1.0;2023-08-19;2023-08-20;1.0;vise, cva copii, vikingi
+61;Insula delfinilor;Scott O'Dell;;PAPERBACK;0;FINALIZATA;null;1.0;2023-08-19;2023-08-20;4.0;copii uitati pe o insula
+62;Minunata calatorie a lui Nils Holgerssonn prin Suedia;Selema Lagerlof;;PAPERBACK;0;NECITITA;null;0.0;;;0.0;
+63;Pipi Sosetica;Astrid Lindgen;;PAPERBACK;0;FINALIZATA;null;1.0;2023-08-19;2023-08-20;3.0;o fata orfana care se distreaza
+64;Micul print;Antonie de Saint-Exupery;;PAPERBACK;156;FINALIZATA;null;1.0;2021-08-07;2021-08-07;1.0;un copil-extraterestru
+65;Ingeri si demoni;Dan Brown;;PAPERBACK;0;IN_CURS_DE_CITIRE;null;0.0;2026-01-24;;0.0;
+66;Pulbere de stele;Neil Gaiman;;PAPERBACK;0;NECITITA;null;0.0;;;0.0;
+67;Odiseea lui Ollie;William Joyce;;PAPERBACK;242;FINALIZATA;null;1.0;2020-08-01;2020-08-02;5.0;jucarii furate de alte jucarii
+68;Biblia pt Elevi;***;;PAPERBACK;0;FINALIZATA;null;1.0;2020-08-01;2020-08-02;3.0;…
+69;Mica enciclopedie a Romaniei pt copii;Silviu Negut, Marius-Cristian Neacsu;;PAPERBACK;0;NECITITA;null;0.0;;;0.0;...
+70;Ce se intampla cu mine?;***;;PAPERBACK;0;FINALIZATA;null;1.0;2020-08-01;2020-08-02;5.0;pubertate
+71;Michelangelo;***;;PAPERBACK;0;NECITITA;null;0.0;;;0.0;
+72;Leonardo Da Vinci;***;;PAPERBACK;0;NECITITA;null;0.0;;;0.0;
+73;Picasso;***;;PAPERBACK;0;NECITITA;null;0.0;;;0.0;
+74;Van Gogh;***;;PAPERBACK;0;NECITITA;null;0.0;;;0.0;
+75;Monet;***;;PAPERBACK;89;ABANDONATA;null;0.0;2026-01-24;;0.0;null
+76;Botticelli;***;;PAPERBACK;0;NECITITA;null;0.0;;;0.0;
+77;Goya;***;;PAPERBACK;0;NECITITA;null;0.0;;;0.0;
+78;Grigorescu;***;;PAPERBACK;0;NECITITA;null;0.0;;;0.0;
+79;Dali;***;;PAPERBACK;0;NECITITA;null;0.0;;;0.0;
+80;Rafael;***;;PAPERBACK;0;NECITITA;null;0.0;;;0.0;
+81;Tonitza;***;;PAPERBACK;0;NECITITA;null;0.0;;;0.0;
+82;Rubens;***;;PAPERBACK;0;NECITITA;null;0.0;;;0.0;
+83;Tiziano;***;;PAPERBACK;0;NECITITA;null;0.0;;;0.0;
+84;Rembrandt;***;;PAPERBACK;0;NECITITA;null;0.0;;;0.0;
+85;Berthe Morisot;***;;PAPERBACK;0;NECITITA;null;0.0;;;0.0;
+86;Vechi maestri europeni;Viktor Lazarev;;PAPERBACK;0;NECITITA;null;0.0;;;0.0;
+87;Goya;Jose Ortega y Gasset;;PAPERBACK;0;NECITITA;null;0.0;;;0.0;
+88;Michelangelo;Herbert von Einem;;PAPERBACK;0;NECITITA;null;0.0;;;0.0;
+89;Arta;***;;PAPERBACK;0;NECITITA;null;0.0;;;0.0;
+90;Marele Urias Prietenos;Ronald Dalh;;PAPERBACK;0;FINALIZATA;null;1.0;2020-08-01;2020-08-02;1.0;o fata rapita de un urias
+91;Hotul de carti;Markus Zusak;;PAPERBACK;571;FINALIZATA;null;1.0;2022-06-05;2022-06-06;5.0;Holocaust
+92;Auschwitz, ultima statie;Eddy de Wind;;PAPERBACK;264;NECITITA;null;0.0;;;0.0;Holocaust
+93;Evadare de la Auschwitz;Joel C. Rosenberg;;PAPERBACK;0;NECITITA;null;0.0;;;0.0;Holocaust
+94;Farmacistul de la Auschwitz;Patricia Posner;;PAPERBACK;304;FINALIZATA;null;1.0;2023-02-09;2023-02-16;4.0;Holocaust
+95;Violonista de la Auschwitz;Ellie Midwood;;PAPERBACK;261;FINALIZATA;null;1.0;2024-02-15;2024-03-03;4.0;Holocaust
+96;Cuptoarele Mortii;Olga Lengyel;;PAPERBACK;0;FINALIZATA;null;1.0;2024-02-15;2024-03-03;4.0;Holocaust
+97;Orasul Semilunii. Casa Cerului si a Aerului;Sarah J. Maas;;PAPERBACK;0;FINALIZATA;null;1.0;2024-02-15;2024-03-03;4.0;smut
+98;The Stolen Heir;Holly Black;YA;PAPERBACK;352;FINALIZATA;null;1.0;2024-09-16;2024-11-08;4.0;
+99;Sarpe si porumbel;Shelby Mahurin;;PAPERBACK;496;FINALIZATA;null;1.0;2022-08-13;2022-08-13;5.0;Magie, vanator casatorit cu vrajitoare
+100;Sange si miere;Shelby Mahurin;;PAPERBACK;528;FINALIZATA;null;1.0;2022-08-13;2022-08-16;5.0;Magie, vanator casatorit cu vrajitoare
+101;Zei si demoni;Shelby Mahurin;;PAPERBACK;0;FINALIZATA;null;1.0;2022-08-13;2022-08-16;5.0;Magie, vanator casatorit cu vrajitoare
+102;Instructiuni pt fete cuminti;Holly Jackson;;PAPERBACK;0;FINALIZATA;null;1.0;2022-08-13;2022-08-16;5.0;fata care rezolva crime
+103;Fatra cuminte, razbunare curata;Holly Jackson;;PAPERBACK;0;FINALIZATA;null;1.0;2022-08-13;2022-08-16;5.0;fata care rezolva crime
+104;As Good As Dead;Holly Jackson;;PAPERBACK;481;FINALIZATA;null;1.0;2022-11-09;2022-11-09;5.0;fata care rezolva crime
+105;O supradoza de moarte;Agatha Cristine;;PAPERBACK;198;FINALIZATA;null;1.0;2022-11-10;2022-11-13;4.0;o crima rezolvata de Hercule Poirot
+106;The Suspect;Fiona Barton;;PAPERBACK;469;FINALIZATA;null;1.0;2023-01-09;2023-01-14;4.0;moartea a doua fete in Tailanda
+107;ABC-ul Psihopatului de Succes;Kevin Dutton;;PAPERBACK;402;FINALIZATA;null;1.0;2022-12-14;2023-07-31;4.0;
+108;ABC-ul Psihopatului de Succes2;Kevin Dutton;;PAPERBACK;402;FINALIZATA;null;1.0;2026-01-24;2026-01-24;0.0;null
+109;Arta Manipularii;Kevin Dutton;;PAPERBACK;0;NECITITA;null;0.0;;;0.0;
+110;The Silent Patient;Alex Michaelides;;PAPERBACK;286;FINALIZATA;null;1.0;2022-11-21;2022-11-28;5.0;o tipa isi omoara sotul- ps-terapeutul e de vina
+111;schimba-ti gandirea schimba-ti viata;Brian Tracy;;PAPERBACK;57;ABANDONATA;null;0.0;;;0.0;null
+112;Jane Eyre;Charlotte Bronte;;PAPERBACK;648;FINALIZATA;null;1.0;2023-01-14;2023-03-27;4.0;viata unei fete si o poveste de dragoste
+113;Villette;Charlotte Bronte;;PAPERBACK;451;FINALIZATA;null;1.0;2023-03-27;2023-04-27;2.0;o pofesoara cam gri
+114;The Professor;Charlotte Bronte;;PAPERBACK;269;FINALIZATA;null;1.0;2023-06-03;2023-06-06;3.0;o poveste de dragoste dintre un profesor si eleva lui
+115;Wuthering Heights;Emily Bronte;romance;PAPERBACK;300;FINALIZATA;null;1.0;2023-06-08;2023-08-01;4.0;
+116;Agnes Grey;Anne Bronte;;PAPERBACK;233;FINALIZATA;null;1.0;2023-12-09;2023-12-16;4.0;romance
+117;The Tenant od Wildfell Hall;Anne Bronte;;PAPERBACK;0;NECITITA;null;0.0;;;0.0;
+118;The Fine Print;Lauren Asher;;PAPERBACK;378;FINALIZATA;null;1.0;2023-04-11;2023-04-15;4.0;poveste stas
+119;Terms and Conditions;Lauren Asher;;PAPERBACK;434;FINALIZATA;null;1.0;2023-05-22;2023-05-23;4.0;se casatoreste obligat, stas
+120;The Final Offer;Lauren Asher;;PAPERBACK;0;FINALIZATA;null;1.0;2023-05-22;2023-05-23;4.0;se lasa de alcool pt iubire
+121;Little Women; Louisa May Alcott;;PAPERBACK;546;FINALIZATA;null;1.0;2023-05-14;2023-05-21;5.0;from girls to women
+122;Peril at End House;Agatha Cristine;;PAPERBACK;114;FINALIZATA;null;1.0;2023-07-24;2023-07-24;4.0;crima
+123;Girl in Pieces;Kathleen Glasgow;;PAPERBACK;418;FINALIZATA;null;1.0;2023-07-02;2023-07-02;5.0;sunicide, cutting
+124;How to Make Friends With the Dark;Kathleen Glasgow;;PAPERBACK;450;FINALIZATA;null;1.0;2023-07-17;2023-07-18;4.0;lost her mom
+125;You'd Be Home Now;Kathleen Glasgow;;PAPERBACK;401;FINALIZATA;null;1.0;2023-07-18;2023-07-20;4.0;drugs
+126;Printre tonuri cenusii;Ruta Sepetys;;PAPERBACK;320;FINALIZATA;null;1.0;2023-08-14;2023-08-17;4.0;lagara rusesti
+127;Good Wives;Louisa May Alcott;;PAPERBACK;248;FINALIZATA;null;1.0;2023-08-02;2023-08-07;4.0;
+128;Kill Joy;Holly Jackson;;PAPERBACK;121;FINALIZATA;null;1.0;2023-07-26;2023-07-26;4.0;
+129;Twisted Love;Ana Huang;;PAPERBACK;352;FINALIZATA;null;1.0;2023-09-03;2023-09-03;5.0;smut
+130;Twisted Games;Ana Huang;;PAPERBACK;0;FINALIZATA;null;1.0;2023-09-03;2023-09-03;3.0;smut
+131;The Secret Keeper;Kate Morton;;PAPERBACK;588;FINALIZATA;null;1.0;2023-09-17;2023-10-12;5.0;dirty secrets
+132;All the bright places;Jennifer Niven;;PAPERBACK;378;FINALIZATA;null;1.0;2023-10-08;2023-10-12;4.0;sunicide
+133;Aleea cu licuriri;Kristin Hannah;;PAPERBACK;0;FINALIZATA;null;1.0;2023-10-08;2023-10-12;3.0;bff
+134;O viata marunta;Hanya Yanagihara;;PAPERBACK;0;NECITITA;null;0.0;;;0.0;
+135;Inceputuri fara sfarsit;Rebecca Yarros;;PAPERBACK;512;FINALIZATA;null;1.0;2024-02-06;2024-02-13;2.0;disgusting romance
+136;Elisabeth is missing;Emma Healey;;PAPERBACK;0;FINALIZATA;null;1.0;2024-02-06;2024-02-13;3.0;
+137;Ceva in apa;Catherine Steadman;;PAPERBACK;0;NECITITA;null;0.0;;;0.0;
+138;Twisted Hate;Ana Huang;;PAPERBACK;452;FINALIZATA;null;1.0;2024-01-24;2024-01-27;4.0;smut
+139;Persuasion;Jane Austen;;PAPERBACK;195;FINALIZATA;null;1.0;2024-01-07;2024-01-17;4.0;romance
+140;Iarna vrajitoare;Katherine Arden;fantasy;PAPERBACK;0;FINALIZATA;null;1.0;2024-01-07;2024-01-17;4.0;
+141;Six of Crows;Leigh Bardugo;;PAPERBACK;479;FINALIZATA;null;1.0;2024-03-06;2024-04-08;5.0;hoti
+142;The Crooked Kingdom;Leigh Bardugo;;PAPERBACK;0;FINALIZATA;null;1.0;2024-03-06;2024-04-08;5.0;hoti
+143;The Cruel Prince;Holly Black;;PAPERBACK;343;FINALIZATA;null;1.0;2024-07-13;2024-07-16;5.0;
+144;The Wricked King;Holly Black;;PAPERBACK;0;FINALIZATA;null;1.0;2024-07-13;2024-07-16;5.0;
+145;The Queen of Nothing;Holly Black;;PAPERBACK;279;FINALIZATA;null;1.0;2024-08-31;2024-08-31;4.0;
+146;Scandalized;Ivy Owens;;PAPERBACK;320;FINALIZATA;null;1.0;2024-07-24;2024-07-24;4.0;smut
+147;Casa Focului si a Umbrei;Sarah J. Maas;fantasy;PAPERBACK;960;FINALIZATA;null;1.0;2024-07-20;2024-07-30;4.0;
+148;Cinder;Marissa Mayer;fiction;PAPERBACK;400;FINALIZATA;null;1.0;2024-08-04;2024-08-09;5.0;
+149;Scarlet;Marissa Mayer;fiction;PAPERBACK;463;FINALIZATA;null;1.0;2024-08-15;2024-08-18;5.0;
+150;Cress;Marissa Mayer;fiction;PAPERBACK;552;FINALIZATA;null;1.0;2024-08-18;2024-08-27;4.0;
+151;Winter;Marissa Mayer;;PAPERBACK;0;NECITITA;null;0.0;;;0.0;
+152;Stars Above;Marissa Mayer;;PAPERBACK;400;FINALIZATA;null;1.0;2025-01-06;2025-01-16;4.0;
+153;Fairest;Marissa Mayer;romance;PAPERBACK;222;FINALIZATA;null;1.0;2025-01-18;2025-02-21;4.0;
+154;Rezistenta;Jennifer A. Nielsen;;PAPERBACK;0;NECITITA;null;0.0;;;0.0;
+155;The House of the Dead & The Gambler;F. Dostoevsky;;PAPERBACK;0;NECITITA;null;0.0;;;0.0;
+156;Crime and Punishment;F. Dostoevsky;;PAPERBACK;0;NECITITA;null;0.0;;;0.0;
+157;Pride and Prejudice;Jane Austen;;PAPERBACK;345;IN_CURS_DE_CITIRE;null;0.0;2025-01-18;2025-02-21;0.0;
+158;Bucuria Vietii;Irving Stone;;PAPERBACK;0;NECITITA;null;0.0;;;0.0;
+159;Niveluri de viata;Julian Barnes;;PAPERBACK;0;NECITITA;null;0.0;;;0.0;
+160;The Reappearance of Rachel Price;Holly Jackson;;PAPERBACK;0;NECITITA;null;0.0;;;0.0;
+161;Five Survive;Holly Jackson;thriller;PAPERBACK;401;FINALIZATA;null;1.0;2024-09-02;2024-09-05;3.0;thriller
+162;A Midwinter Promise;Lulu Taylor;;PAPERBACK;0;NECITITA;null;0.0;;;0.0;
+163;Red Queen;Victoria Aveyard;;PAPERBACK;0;NECITITA;null;0.0;;;0.0;
+164;Heartless;Marissa Mayer;YA;PAPERBACK;320;FINALIZATA;null;1.0;2024-09-05;2024-09-09;4.0;
+165;Twisted Lies;Ana Huang;YA;PAPERBACK;423;FINALIZATA;null;1.0;2024-09-09;2024-09-10;4.0;smut
+166;The Prisoner's Throne;Holly Black;YA;PAPERBACK;0;FINALIZATA;null;1.0;2024-09-09;2024-09-10;4.0;
+167;Castelul din nori;Kerstin Gier;romance;PAPERBACK;390;FINALIZATA;null;1.0;2024-10-03;2024-10-28;4.0;
+168;Once upon a broken hearh;Stephanie Garber;fantasy;PAPERBACK;0;FINALIZATA;null;1.0;2024-10-03;2024-10-28;5.0;idk how to put it
+169;Powerless;Lauren Roberts;romance;PAPERBACK;528;FINALIZATA;null;1.0;2025-01-16;2025-01-18;5.0;
+170;All the light we cannot see;Anthony Doerr;;PAPERBACK;0;NECITITA;null;0.0;;;0.0;
+171;Left Overs;Stella Newman;;PAPERBACK;0;NECITITA;null;0.0;;;0.0;
+172;It only happens in the movies;Lynn Painter;romance;PAPERBACK;410;FINALIZATA;null;1.0;2024-11-21;2024-11-23;5.0;
+173;The Glass Girl;Kathleen Glasgow;;PAPERBACK;0;NECITITA;null;0.0;;;0.0;
+174;Fata din turn;Katherine Arden;fantasy;PAPERBACK;480;FINALIZATA;null;1.0;2025-01-02;2025-01-05;4.0;
+175;Anna Karenina;Leo Tolstoy;;PAPERBACK;0;NECITITA;null;0.0;;;0.0;
+176;Viata invizibila a lui Addie LaRue;V. E. Schwab;history;PAPERBACK;512;FINALIZATA;null;1.0;2024-12-05;2024-12-30;4.0;
+177;Legendarii;Tracy Deonn;;PAPERBACK;0;NECITITA;null;0.0;;;0.0;
+178;Magia sangelui;Tracy Deonn;;PAPERBACK;0;NECITITA;null;0.0;;;0.0;
+179;Cat timp infloresc lamaii;Zoulfa Katouh;;PAPERBACK;0;NECITITA;null;0.0;;;0.0;
+180;Biblioteca invizibila;Genevieve Cogman;SF;PAPERBACK;312;FINALIZATA;null;1.0;2025-03-16;2025-03-16;4.0;
+181;Orasul Mascat;Genevieve Cogman;;PAPERBACK;0;NECITITA;null;0.0;;;0.0;
+182;Carti in flacari;Genevieve Cogman;;PAPERBACK;0;NECITITA;null;0.0;;;0.0;
+183;Lolita;Vladimir Nabokov;romance;PAPERBACK;376;FINALIZATA;null;1.0;2025-01-26;2025-02-04;1.0;just no
+184;Dance of Thieves;Mary E. Pearson;;PAPERBACK;0;NECITITA;null;0.0;;;0.0;
+185;Hooked;Emily McIntire;romance;PAPERBACK;312;FINALIZATA;null;1.0;2025-02-03;2025-02-05;5.0;smut
+186;My dark Romeo;Huntington Parker S., L.J. Shen;romance;PAPERBACK;0;FINALIZATA;null;1.0;2025-02-03;2025-02-05;3.0;smut
+187;Mansfield Park;Jane Austen;;PAPERBACK;0;NECITITA;null;0.0;;;0.0;
+188;Carnaval;Stephanie Garber;;PAPERBACK;0;FINALIZATA;null;1.0;2025-02-03;2025-02-05;5.0;
+189;O fereastra intunecata;Rachel Gillig;action;PAPERBACK;0;FINALIZATA;null;1.0;2025-02-03;2025-02-05;5.0;
+190;Doua coroane inlantuite;Rachel Gillig;action;PAPERBACK;0;FINALIZATA;null;1.0;2025-02-03;2025-02-05;4.0;
+191;Gallant;V. E. Schwab;horror;PAPERBACK;0;FINALIZATA;null;1.0;2025-02-03;2025-02-05;4.0;
+192;Bandita;Franny Billingsley;action;PAPERBACK;0;FINALIZATA;null;1.0;2025-02-03;2025-02-05;3.0;
+193;Cercul magic al lunii negre;Cari Thomas;;PAPERBACK;0;NECITITA;null;0.0;;;0.0;
+194;Hunting Adeline;H. D. Carlton;romance;PAPERBACK;0;FINALIZATA;null;1.0;2025-02-03;2025-02-05;5.0;smut
+195;Legendar ;Stephanie Garber;romance;PAPERBACK;0;FINALIZATA;null;1.0;2025-02-03;2025-02-05;5.0;
+196;Finalul;Stephanie Garber;romance;PAPERBACK;0;FINALIZATA;null;1.0;2025-02-03;2025-02-05;5.0;
+197;A curse of true love;Stephanie Garber;romance;PAPERBACK;0;FINALIZATA;null;1.0;2025-02-03;2025-02-05;5.0;
+198;The ballad of never after;Stephanie Garber;romance;PAPERBACK;0;FINALIZATA;null;1.0;2025-02-03;2025-02-05;5.0;
+199;Reckless;Lauren Roberts;romance;PAPERBACK;0;FINALIZATA;null;1.0;2025-02-03;2025-02-05;5.0;
+200;Fearless;Lauren Roberts;romance;PAPERBACK;0;FINALIZATA;null;1.0;2025-02-03;2025-02-05;5.0;
+201;A Fate Inked in Blood;Danielle L. Jensen;;PAPERBACK;435;FINALIZATA;null;1.0;2025-09-03;2026-01-24;0.0;
+202;Vow of thieves;Mary E. Pearson;;PAPERBACK;0;NECITITA;null;0.0;;;0.0;
+203;When the Moon Hatched;Sarah A. Parker;fantasy;PAPERBACK;234;FINALIZATA;null;1.0;2026-01-24;2026-01-24;0.0;null
+418;Lights Out;Navessa Alleen;;PAPERBACK;123;NECITITA;null;0.0;;;0.0;null

@@ -1,0 +1,87 @@
+.root {
+    -fx-font-family: "Georgia";
+    -fx-text-fill: #1b1b1b;
+    -fx-background-color: linear-gradient(to bottom, #f7f4f0, #eef1f7);
+}
+
+.label {
+    -fx-text-fill: #1b1b1b;
+}
+
+.page-title {
+    -fx-font-size: 48px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #3a2c6b;
+}
+
+.subtitle {
+    -fx-text-fill: #5b5b5b;
+    -fx-font-size: 14px;
+}
+
+.card {
+    -fx-background-color: rgba(255, 255, 255, 0.92);
+    -fx-border-color: #d7cfc6;
+    -fx-border-radius: 12;
+    -fx-background-radius: 12;
+    -fx-effect: dropshadow(gaussian, rgba(20, 20, 20, 0.08), 12, 0.15, 0, 4);
+}
+
+.card-title {
+    -fx-font-size: 22px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #2f2a4a;
+}
+
+.hint {
+    -fx-opacity: 0.65;
+    -fx-font-size: 11px;
+}
+
+.button {
+    -fx-background-color: #dcd7fb;
+    -fx-border-color: #a9a0e0;
+    -fx-border-radius: 8;
+    -fx-background-radius: 8;
+    -fx-font-size: 14px;
+    -fx-padding: 8 14;
+}
+
+.button:hover {
+    -fx-background-color: #e2ddf4;
+}
+
+.button:focused {
+    -fx-border-color: #7a6ad8;
+}
+
+.combo-box-base {
+    -fx-background-color: #f3f2fb;
+    -fx-border-color: #c7c2e8;
+    -fx-border-radius: 8;
+    -fx-background-radius: 8;
+}
+
+.text-field, .text-area, .date-picker {
+    -fx-background-color: #ffffff;
+    -fx-border-color: #c7c2e8;
+    -fx-border-radius: 6;
+    -fx-background-radius: 6;
+}
+
+.book-card {
+    -fx-background-color: rgba(255, 255, 255, 0.92);
+    -fx-border-color: #d7cfc6;
+    -fx-border-radius: 10;
+    -fx-background-radius: 10;
+}
+
+.book-title {
+    -fx-font-weight: bold;
+    -fx-font-size: 14px;
+}
+
+.book-author {
+    -fx-opacity: 0.7;
+    -fx-font-size: 13px;
+}

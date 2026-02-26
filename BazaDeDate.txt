@@ -1,0 +1,56 @@
+create table if not exists public.books (
+  id bigserial primary key,
+
+  titlu text not null,
+  autor text not null,
+  gen text,
+  tip text not null default 'PAPERBACK'
+    check (tip in ('PAPERBACK', 'HARDCOVER', 'EBOOK')),
+
+  pagini_totale int not null check (pagini_totale >= 0),
+
+  status text not null default 'NECITITA'
+    check (status in ('NECITITA', 'IN_CURS_DE_CITIRE', 'FINALIZATA', 'ABANDONATA')),
+
+  imagine text, 
+
+  procent numeric(5,2) not null default 0
+    check (procent >= 0 and procent <= 100),
+
+  data_start date,
+  data_finish date,
+
+  scor int check (scor between 1 and 10),
+  review text,
+
+  created_at timestamptz not null default now(),
+  updated_at timestamptz not null default now()
+);
+
+create index if not exists idx_books_status on public.books(status);
+
+
+create table if not exists public.reading_log (
+  id bigserial primary key,
+
+  book_id bigint not null
+    references public.books(id)
+    on delete cascade,
+
+  data date not null default current_date,
+
+  pagina_curenta int check (pagina_curenta >= 0),
+  pagini_citite int not null default 0 check (pagini_citite >= 0),
+
+  created_at timestamptz not null default now()
+);
+
+
+create index if not exists idx_reading_log_book_id on public.reading_log(book_id);
+create index if not exists idx_reading_log_book_date on public.reading_log(book_id, data);
+
+alter table public.reading_log
+add constraint reading_log_book_date_page_unique
+unique (book_id, data, pagina_curenta);
+
+
